@@ -4,6 +4,6 @@ public class Cat extends Animal{
 
 
     public void purr(){
-        System.out.print("\nMiau");
+        System.out.print("\nMiau Miau");
     }
 }
